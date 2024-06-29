@@ -9,8 +9,8 @@
 
 ![image](https://github.com/tianyuan09/self-made-OS/assets/67927023/ca586fd7-87d7-4c96-914c-da76f8d84e6a)
 
-## Method 2:  NSAM (or ``nask`` compiler created by the author)
-
+## Method 2:  Using Assembly language to create the same image file ``helloos.img``NSAM 
+Using ``nask`` Assembler (similar to NSAM) to obtain the ``helloos.img"
 
 ## Q&A what does it mean "the “hex” format encodes binary data as 2 hexadecimal digits per byte"?
 
