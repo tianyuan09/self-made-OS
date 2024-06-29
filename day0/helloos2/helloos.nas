@@ -1,7 +1,7 @@
 ; hello-os
 ; TAB=4
 
-; The following is a description for a standard FAT12 format floppy disk. this is a comment
+; The following is a description for a standard FAT12 format floppy disk. this is a comment; a different version compared to helloos1/helloos.nas. 
 
 		DB		0xeb, 0x4e, 0x90; DB stands for define bytes (or a string of ASCII characters)
 		DB		"HELLOIPL"		; You can freely write the name of the boot sector (8 bytes)
