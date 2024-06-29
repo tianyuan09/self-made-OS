@@ -7,6 +7,8 @@
 3. Create ``helloos0`` folder as instructed (or copy the one in this folder), then double-click``!cons_nt.bat``in the folder.
 4. QEMU is a free PC simulator.
 
+Double-click``!cons_nt.bat``to see the OS in action. 
+
 ![image](https://github.com/tianyuan09/self-made-OS/assets/67927023/ca586fd7-87d7-4c96-914c-da76f8d84e6a)
 
 ## Method 2:  Using Assembly language to create the same image file ``helloos.img`` 
