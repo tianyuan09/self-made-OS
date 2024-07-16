@@ -3,7 +3,7 @@
 ## Method 1: write a binary ``.img" file
 
 1. Download [BinaryEditor](https://www.vcraft.jp/soft/bz.html), type the hex data in.  The “hex” format encodes binary data as 2 hexadecimal digits per byte. 
-2. Download prep files: [32-bit OSASK](http://hrb.osask.jp/)
+2. Download [`tolset_h.zip`](http://hrb.osask.jp/): "Haribote OS" app development compatible tolset files for Windows development. 
 3. Create ``helloos0`` folder as instructed (or copy the one in this folder), then double-click``!cons_nt.bat``in the folder.
 4. QEMU is a free PC simulator.
 
